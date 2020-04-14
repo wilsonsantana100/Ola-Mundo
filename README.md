@@ -13,4 +13,4 @@
 
 [Meu GitHub](https://github.com/wilsonsantana100)
 
-![ReiLeão](https://github.com/wilsonsantana100/Ola-Mundo//blob/master/Leao-01.png)
+![ReiLeão](https://github.com/wilsonsantana100/Ola-Mundo/Leao-01.png)
